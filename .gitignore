@@ -2,6 +2,6 @@ local_works
 .ipynb_checkpoints
 */.ipynb_checkpoints
 # workshop2 under construction
-workshop#2/CNN-Visualization.ipynb
+workshop#2/CNN_Visualization.ipynb
 datasets
 */*.h5
