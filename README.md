@@ -22,6 +22,7 @@ Then
 Type command:
 `$ conda install pandas numpy scikit-learn matplotlib tensorflow keras jupyterlab ipykernel`
 
+`$ pip install pillow opencv-python`
 
 ### 3. Validate your installation
 Type command:
