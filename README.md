@@ -1,4 +1,4 @@
-# Repor for Deep Learning Workshops
+# Repo for Deep Learning Workshops
 * sponsored by EEE AI Lab
 * This repo may refer to online materials/MOOCs and it is for educational purpose only.
 
