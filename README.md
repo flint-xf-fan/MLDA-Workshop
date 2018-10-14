@@ -1,9 +1,12 @@
+# Repo for Deep Learning Workshops
+* sponsored by EEE AI Lab
+* This repo may refer to online materials/MOOCs and it is for educational purpose only.
+
+
 # Python Environment (local, CPU-only) Setup Guide
 
 ## Download and install Anaconda
-Choose Python 3.6 version: https://www.anaconda.com/download/#macos
-
-(for windows only) Install Git: https://git-scm.com/downloads
+Choose Python 3.x version: https://www.anaconda.com/download/#macos
 
 ## Env Setup
 ### 1. Create Environment
@@ -19,6 +22,7 @@ Then
 Type command:
 `$ conda install pandas numpy scikit-learn matplotlib tensorflow keras jupyterlab ipykernel`
 
+`$ pip install pillow opencv-python`
 
 ### 3. Validate your installation
 Type command:
@@ -34,3 +38,17 @@ import tensorflow as tf
 ```
 
 You should see no error.
+
+# Setup on your GPU server
+You are given an account to access one of our GPU stations (Tesla V100 or GTX 1080 Ti) at EEE AI Lab. 
+## To connect to the server
+`$ ssh your_username@IP_ADDRESS`
+
+## Install Anaconda
+Run following commands:
+```
+$ cd ~
+$ wget https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh
+$ bash Anaconda3-5.3.0-Linux-x86_64.sh
+```
+Then make response accordingly.
