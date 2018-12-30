@@ -1,6 +1,6 @@
-# Repo for Deep Learning Workshops
-* sponsored by EEE AI Lab
-* This repo may refer to online materials/MOOCs and it is for educational purpose only.
+# Repo for MLDA Workshops
+* sponsored by MLDA@EEE
+* This repo may refer to some online materials/MOOCs and it is for educational purpose only. Pls contact Xiaofeng(fxf1996@gmail.com) if any unapproriated use found.
 
 
 # Python Environment (local, CPU-only) Setup Guide
