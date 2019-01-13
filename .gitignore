@@ -1,8 +1,11 @@
 .DS_Store
 local_works
+
+docts/
+
 student_submissions
 .ipynb_checkpoints
 */.ipynb_checkpoints
 
 datasets
-*/*.h5
+
